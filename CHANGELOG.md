@@ -1,5 +1,11 @@
 # Changelog
 
+## 6.2.4
+
+### Patch Changes
+
+- ca32014: Bump tabbable from 5.1.4 to 5.1.5
+
 ## 6.2.3
 
 ### Patch Changes
